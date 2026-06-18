@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This repository contains the source code for my portfolio, showcasing my skills, interests, featured projects, and contact information.
 
-🔗 **Live Link:** [https://ujjwal-7531.github.io/Portfolio/](https://ujjwal-7531.github.io/Portfolio/) *(or your deployed custom link)*
+🔗 **Live Link:** [https://luxury-starship-41e8a3.netlify.app/](https://luxury-starship-41e8a3.netlify.app/) *(or your deployed custom link)*
 
 ---
 
